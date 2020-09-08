@@ -48,12 +48,13 @@ main .sx{
 
 /* square centro */
 main .centro{
-  background-color: #7d044e;
+  background-color: #7d544e;
   float: left;
   height: 400px;
   width: 50%;
   margin-right: 2%;
 }
+
 
 /* square padre destra */
 main .dx{
@@ -75,4 +76,10 @@ footer {
   background-color: #32a6a8;
   height: 100px;
   width: auto;
+}
+
+.joke {
+  font-size: 50px;
+  color: #8a5820;
+  float: right;
 }
