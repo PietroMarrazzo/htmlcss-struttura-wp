@@ -17,16 +17,11 @@ body{
 
 
 /* HEADER */
-
 header {
   background-color: yellow;
   margin-top: 30px;
   margin-bottom: 10px;
   height: 100px;
-}
-
-header h1 {
-  text-align: center;
 }
 
 
@@ -60,9 +55,16 @@ main .centro{
 }
 
 main .dx{
-  background-color: pink ;
   float: left;
   width: 23%;
 }
+
+.squarino{
+  background-color: pink;
+  margin-bottom: 15px;
+  border-radius: 8%;
+  height: 180px;
+}
+
 
 /* FOOTER */
