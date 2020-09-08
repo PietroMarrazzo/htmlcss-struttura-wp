@@ -6,7 +6,7 @@
 }
 
 body{
-  background-color: lightgray;
+  background-color: #dbdbdb;
 }
 
 .pagina {
@@ -18,7 +18,7 @@ body{
 
 /* HEADER */
 header {
-  background-color: yellow;
+  background-color: #bdab28;
   margin-top: 30px;
   margin-bottom: 10px;
   height: 100px;
@@ -39,28 +39,31 @@ main{
 
 /* square sx */
 main .sx{
-  background-color: pink;
+  background-color: #ab0eab;
   float: left;
   height: 280px;
   width: 23%;
   margin-right: 2%;
 }
 
+/* square centro */
 main .centro{
-  background-color: purple ;
+  background-color: #7d044e;
   float: left;
   height: 400px;
   width: 50%;
   margin-right: 2%;
 }
 
+/* square padre destra */
 main .dx{
   float: left;
   width: 23%;
 }
 
+/* square piccoli destra */
 .squarino{
-  background-color: pink;
+  background-color: #ab0eab;
   margin-bottom: 15px;
   border-radius: 8%;
   height: 180px;
@@ -68,3 +71,8 @@ main .dx{
 
 
 /* FOOTER */
+footer {
+  background-color: #32a6a8;
+  height: 100px;
+  width: auto;
+}
