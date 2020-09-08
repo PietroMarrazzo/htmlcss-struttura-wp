@@ -1,0 +1,36 @@
+/* IMPOSTAZIONE PAGINA */
+body {
+  background-color: lightgray;
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+
+/* HEADER */
+
+header {
+  background-color: yellow;
+  width: 800px;
+  height: 100px;
+  margin: auto;
+  margin-top: 30px;
+}
+
+header div {
+  text-align: center;
+  vertical-align: middle;
+}
+
+
+/* MAIN */
+
+
+
+
+
+
+/* FOOTER */
